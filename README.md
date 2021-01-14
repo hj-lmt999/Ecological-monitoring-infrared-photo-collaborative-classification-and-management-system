@@ -1,0 +1,1 @@
+# Ecological-monitoring-infrared-photo-collaborative-classification-and-management-system
